@@ -32,8 +32,7 @@ This project is built using **HTML, CSS, and JavaScript**.
 ---
 
 ## 📸 Screenshots
-
-<img width="1898" height="903" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/9022aa91-b28b-4899-b283-abaaae53d45c" />
+<img width="1365" height="837" alt="Screenshot" src="https://github.com/user-attachments/assets/67c682ea-a198-4bf3-861b-c2346fe39217" />
 
 ---
 
