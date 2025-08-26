@@ -46,7 +46,7 @@ This project is built using **HTML, CSS, and JavaScript**.
 ---
 
 ## 🌐 Live Demo
-👉 Play Now : https://mr-deepak-kp.github.io/Simon-Says-Game/  
+👉 Play Now : https://mr-deepak-kp.github.io/Simon-Says-Game/ 
 
 ---
 
